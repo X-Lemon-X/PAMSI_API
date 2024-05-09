@@ -2,10 +2,10 @@
 
 
 # TO DO
-- API
-- game
+- API (python)
+- game (python)
 - docker
-- SQL
-- client 
+- SQL (sql_alchemy in python)
+- client ( c++ )
 
 # DONE
