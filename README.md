@@ -3,8 +3,9 @@
 
 # TO DO
 - API
-- gre
-- dockera
+- game
+- docker
 - SQL
+- client 
 
 # DONE
